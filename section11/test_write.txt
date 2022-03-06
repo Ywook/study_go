@@ -1,0 +1,4 @@
+001)*Hello Golang!
+ File Write Test ! -1 
+Hello Golan! 
+ File Write Test ! - 3
